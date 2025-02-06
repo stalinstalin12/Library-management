@@ -34,7 +34,7 @@ const AdminDashboard = () => {
         <h2 className="text-2xl font-bold mb-6">Admin Panel</h2>
         <ul>
           <li className="mb-4">
-            <Link to="/admin" className="hover:text-gray-300">📊 Dashboard</Link>
+            <Link to="/adminHome" className="hover:text-gray-300">📊 Dashboard</Link>
           </li>
           <li className="mb-4">
             <Link to="/add-book" className="hover:text-gray-300">📚 Add Book</Link>
